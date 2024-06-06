@@ -38,4 +38,3 @@ The CSS styles used in this project aim to resemble Google's aesthetics, includi
 ## Acknowledgments
 
 This project was completed as part of the CS50's Web Programming with Python and JavaScript course offered by Harvard University.
-You can customize and expand this README file further by adding sections like "T
